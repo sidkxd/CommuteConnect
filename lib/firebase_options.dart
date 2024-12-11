@@ -44,18 +44,18 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCJr3emtLGuElHUYNY28Ab0gbajnvPCEp8',
+    apiKey: 'ENTER_FIREBASE_API_KEY',
     appId: '1:29403172094:web:7b5f4e00e48a1b2a6aa9af',
     messagingSenderId: '29403172094',
-    projectId: 'trippo-1eb43',
-    authDomain: 'trippo-1eb43.firebaseapp.com',
-    databaseURL: 'https://trippo-1eb43-default-rtdb.firebaseio.com',
-    storageBucket: 'trippo-1eb43.appspot.com',
+    projectId: 'commuteconnect-791a5 ',
+    authDomain: 'commuteconnect-791a5 .firebaseapp.com',
+    databaseURL: 'https://commuteconnect-791a5 -default-rtdb.firebaseio.com',
+    storageBucket: 'commuteconnect-791a5 .appspot.com',
     measurementId: 'G-Y86M6CNXPR',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBAnQ3clNtkLC-nrT5NJg5L0MfK6aim9ko',
+    apiKey: 'ENTER_FIREBASE_API_KEY',
     appId: '1:379792293272:android:d41240ce4021b54094bfed',
     messagingSenderId: '379792293272',
     projectId: 'commuteconnect-791a5',
@@ -67,9 +67,9 @@ class DefaultFirebaseOptions {
   //   apiKey: 'AIzaSyCjrd2UgBE96b5VLzMDll4O2Ke4tvCZTy8',
   //   appId: '1:29403172094:ios:6ac2194fbcc42edd6aa9af',
   //   messagingSenderId: '29403172094',
-  //   projectId: 'trippo-1eb43',
-  //   databaseURL: 'https://trippo-1eb43-default-rtdb.firebaseio.com',
-  //   storageBucket: 'trippo-1eb43.appspot.com',
+  //   projectId: 'commuteconnect-791a5',
+  //   databaseURL: 'https://commuteconnect-791a5-default-rtdb.firebaseio.com',
+  //   storageBucket: 'commuteconnect-791a5.appspot.com',
   //   iosClientId: '29403172094-ailnalfvg49ftr38rgahv6pjp4p2d8a2.apps.googleusercontent.com',
   //   iosBundleId: 'com.egoncastle.users',
   // );
@@ -78,9 +78,9 @@ class DefaultFirebaseOptions {
   //   apiKey: 'AIzaSyCjrd2UgBE96b5VLzMDll4O2Ke4tvCZTy8',
   //   appId: '1:29403172094:ios:6ac2194fbcc42edd6aa9af',
   //   messagingSenderId: '29403172094',
-  //   projectId: 'trippo-1eb43',
-  //   databaseURL: 'https://trippo-1eb43-default-rtdb.firebaseio.com',
-  //   storageBucket: 'trippo-1eb43.appspot.com',
+  //   projectId: 'commuteconnect-791a5',
+  //   databaseURL: 'https://commuteconnect-791a5-default-rtdb.firebaseio.com',
+  //   storageBucket: 'commuteconnect-791a5.appspot.com',
   //   iosClientId: '29403172094-ailnalfvg49ftr38rgahv6pjp4p2d8a2.apps.googleusercontent.com',
   //   iosBundleId: 'com.egoncastle.users',
   // );
